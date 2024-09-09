@@ -1,0 +1,1 @@
+Tässä molemmat bootstrap harjoitukset
